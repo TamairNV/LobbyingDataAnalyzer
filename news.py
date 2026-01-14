@@ -1,6 +1,10 @@
+import os
 
+import dotenv
+dotenv.load_dotenv()
 
-API_KEY ='pub_9ca6474a0daa4c659e28731d1995b4bc'
+PROPUBLICA_API_KEY = os.environ.get("NEW_DATA")
+
 import requests
 
 BASE_URL = "https://newsdata.io/api/1/news"

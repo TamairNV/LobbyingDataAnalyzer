@@ -1,5 +1,11 @@
+import os
+
 import requests
-FEC_API_KEY = "FqbhrIR98jecS9zowzsA732eqcWvGl7INSjsudtr"
+import dotenv
+dotenv.load_dotenv()
+
+
+FEC_API_KEY = os.environ.get("GOV_API")
 
 def find_pac_id(company_name):
     print(f"Searching for PACs related to '{company_name}'...")

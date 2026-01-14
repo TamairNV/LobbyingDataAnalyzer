@@ -1,4 +1,5 @@
 import json
+import os
 import time
 import re
 import requests
@@ -6,8 +7,11 @@ from nameparser import HumanName
 from rapidfuzz import fuzz
 
 from PAC import find_pac_id
-PROPUBLICA_API_KEY = "Ya5iCfcRfK8ggOkeeR24j0rVv8CjRHJf0FKANpcB"
-GOV_API = "FqbhrIR98jecS9zowzsA732eqcWvGl7INSjsudtr"
+import dotenv
+dotenv.load_dotenv()
+
+PROPUBLICA_API_KEY = os.environ.get("PROPUBLICA_API_KEY")
+GOV_API = os.environ.get("GOV_API")
 headers = {'X-API-Key': PROPUBLICA_API_KEY}
 from regex import extract_bill_codes
 CYCLE = 2024

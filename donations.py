@@ -1,12 +1,16 @@
+import os
+
 import requests
 import json
 
-# --- Config ---
-API_KEY = "Ya5iCfcRfK8ggOkeeR24j0rVv8CjRHJf0FKANpcB"  # Replace with your own key from api.data.gov for higher limits
+
+import dotenv
+dotenv.load_dotenv()
+
+API_KEY = os.environ.get("PROPUBLICA_API_KEY")
 BASE_URL = "https://api.open.fec.gov/v1"
 
-# 1. Find Amazon's PAC ID (I looked this up for you: C00360354)
-# If you needed to search for it: /committees/?q=Amazon&api_key=...
+
 
 
 

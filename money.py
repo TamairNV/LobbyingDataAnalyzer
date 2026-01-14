@@ -1,9 +1,13 @@
+import os
+
 import requests
 from donations import get_pac_distributions
 from main import getAllBill
-PROPUBLICA_API_KEY = "Ya5iCfcRfK8ggOkeeR24j0rVv8CjRHJf0FKANpcB"
-# The "American Innovation and Jobs Act" in the 118th Congress is S.866
-# You can find these IDs by searching Congress.gov
+import dotenv
+dotenv.load_dotenv()
+
+PROPUBLICA_API_KEY = os.environ.get("PROPUBLICA_API_KEY")
+
 bills= getAllBill()
 
 
