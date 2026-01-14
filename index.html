@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lobbying Data Cards</title>
+    <style>
+        /* Basic Reset and Font */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        /* Container for the cards */
+        #card-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Card Styling */
+        .card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 20px;
+            transition: transform 0.2s;
+            border-left: 5px solid #007bff; /* Blue accent */
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .bill-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .bill-number {
+            background-color: #007bff;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+
+        .policy-area {
+            color: #666;
+            font-size: 0.85em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        h2 {
+            margin: 10px 0;
+            font-size: 1.25em;
+            color: #222;
+        }
+
+        p {
+            color: #555;
+            font-size: 0.95em;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+
+        .meta-info {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        .meta-label {
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Lobbying Activity</h1>
+    <div id="card-container"></div>
+
+    <script>
+        // Function to fetch and display data
+        async function loadData() {
+            try {
+                const response = await fetch('data.json');
+                const data = await response.json();
+                const container = document.getElementById('card-container');
+
+                data.forEach(item => {
+                    // Create card div
+                    const card = document.createElement('div');
+                    card.className = 'card';
+
+                    // Fill card with HTML
+                    card.innerHTML = `
+                        <div class="bill-header">
+                            <span class="bill-number">${item.bill_number}</span>
+                            <span class="policy-area">${item.policy_area}</span>
+                        </div>
+                        <h2>${item.bill_title}</h2>
+                        <p><strong>Summary:</strong> ${item.summary}</p>
+
+                        <div class="meta-info">
+                            <p><span class="meta-label">Amazon Position:</span> ${item.amazon_position}</p>
+                            <p><span class="meta-label">Reason:</span> ${item.reason_for_lobbying}</p>
+                        </div>
+                    `;
+
+                    // Add to container
+                    container.appendChild(card);
+                });
+
+            } catch (error) {
+                console.error('Error loading JSON:', error);
+                document.getElementById('card-container').innerHTML =
+                    '<p style="text-align:center; color:red;">Error loading data. Make sure you are running this on a local server (not just opening the file).</p>';
+            }
+        }
+
+        // Run the function
+        loadData();
+    </script>
+
+</body>
+</html>

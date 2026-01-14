@@ -1,0 +1,3985 @@
+{
+    "Company_Name": "GOOGLE",
+    "PAC_no": "C00428623",
+    "LogoURL": "https://unavatar.io/google.com",
+    "hr791": {
+        "bill": {
+            "bill_no": "791",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Judiciary Committee",
+            "committee_id": "hsju"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Brad Knott",
+                "member_id": "K000405",
+                "amount": 2000.0,
+                "date": "2024-12-20",
+                "recipient_group": "BRAD KNOTT FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Zoe Lofgren",
+                "member_id": "L000397",
+                "amount": 2500.0,
+                "date": "2024-10-18",
+                "recipient_group": "LOFGREN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Neguse",
+                "member_id": "N000191",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "JOE NEGUSE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jerrold Nadler",
+                "member_id": "N000002",
+                "amount": 1000.0,
+                "date": "2024-09-26",
+                "recipient_group": "NADLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jamie Raskin",
+                "member_id": "R000606",
+                "amount": 2000.0,
+                "date": "2024-09-20",
+                "recipient_group": "JAMIE RASKIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Harriet M. Hageman",
+                "member_id": "H001096",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "HAGEMAN FOR WYOMING",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Eric Swalwell",
+                "member_id": "S001193",
+                "amount": 1000.0,
+                "date": "2024-06-14",
+                "recipient_group": "SWALWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Henry C. \"Hank\" Johnson, Jr.",
+                "member_id": "J000288",
+                "amount": 1000.0,
+                "date": "2024-05-31",
+                "recipient_group": "COMMITTEE TO RE-ELECT HENRY HANK JOHNSON",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Eric Swalwell",
+                "member_id": "S001193",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "SWALWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Neguse",
+                "member_id": "N000191",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "JOE NEGUSE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deborah K. Ross",
+                "member_id": "R000305",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "DEBORAH ROSS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jerrold Nadler",
+                "member_id": "N000002",
+                "amount": 2000.0,
+                "date": "2024-04-12",
+                "recipient_group": "NADLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kevin Kiley",
+                "member_id": "K000401",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "KEVIN KILEY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Zoe Lofgren",
+                "member_id": "L000397",
+                "amount": 2500.0,
+                "date": "2024-02-16",
+                "recipient_group": "LOFGREN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sydney Kamlager-Dove",
+                "member_id": "K000400",
+                "amount": 1000.0,
+                "date": "2024-01-19",
+                "recipient_group": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Harriet M. Hageman",
+                "member_id": "H001096",
+                "amount": 1000.0,
+                "date": "2024-01-05",
+                "recipient_group": "HAGEMAN FOR WYOMING",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jerrold Nadler",
+                "member_id": "N000002",
+                "amount": 1000.0,
+                "date": "2023-12-14",
+                "recipient_group": "NADLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darrell Issa",
+                "member_id": "I000056",
+                "amount": 5000.0,
+                "date": "2023-12-14",
+                "recipient_group": "INVEST IN A STRONG AND SECURE AMERICA",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Jamie Raskin",
+                "member_id": "R000606",
+                "amount": 1000.0,
+                "date": "2023-12-08",
+                "recipient_group": "JAMIE RASKIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deborah K. Ross",
+                "member_id": "R000305",
+                "amount": 1000.0,
+                "date": "2023-12-08",
+                "recipient_group": "DEBORAH ROSS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ted Lieu",
+                "member_id": "L000582",
+                "amount": 2500.0,
+                "date": "2023-09-29",
+                "recipient_group": "TED LIEU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott Fitzgerald",
+                "member_id": "F000471",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "SCOTT FITZGERALD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lucy McBath",
+                "member_id": "M001208",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FRIENDS OF LUCY MCBATH",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Eric Swalwell",
+                "member_id": "S001193",
+                "amount": 1000.0,
+                "date": "2023-06-30",
+                "recipient_group": "SWALWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jerrold Nadler",
+                "member_id": "N000002",
+                "amount": 1000.0,
+                "date": "2023-06-30",
+                "recipient_group": "NADLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darrell Issa",
+                "member_id": "I000056",
+                "amount": 5000.0,
+                "date": "2023-06-30",
+                "recipient_group": "DARRELL ISSA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sydney Kamlager-Dove",
+                "member_id": "K000400",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ted Lieu",
+                "member_id": "L000582",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "TED LIEU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Neguse",
+                "member_id": "N000191",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "JOE NEGUSE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Laurel M. Lee",
+                "member_id": "L000597",
+                "amount": 1000.0,
+                "date": "2023-05-19",
+                "recipient_group": "LAUREL LEE FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Zoe Lofgren",
+                "member_id": "L000397",
+                "amount": 5000.0,
+                "date": "2023-03-17",
+                "recipient_group": "LOFGREN FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr2794": {
+        "bill": {
+            "bill_no": "2794",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Ways and Means Committee",
+            "committee_id": "hswm"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Steven Horsford",
+                "member_id": "H001066",
+                "amount": 2000.0,
+                "date": "2024-12-20",
+                "recipient_group": "NEVADANS FOR STEVEN HORSFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Suzan K. DelBene",
+                "member_id": "D000617",
+                "amount": 2000.0,
+                "date": "2024-10-18",
+                "recipient_group": "DELBENE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brendan F. Boyle",
+                "member_id": "B001296",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "CITIZENS FOR BOYLE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard E. Neal",
+                "member_id": "N000015",
+                "amount": 2500.0,
+                "date": "2024-10-11",
+                "recipient_group": "RICHARD E. NEAL FOR CONGRESS COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jimmy Panetta",
+                "member_id": "P000613",
+                "amount": 3000.0,
+                "date": "2024-09-13",
+                "recipient_group": "JIMMY PANETTA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jason Smith",
+                "member_id": "S001195",
+                "amount": 2500.0,
+                "date": "2024-08-16",
+                "recipient_group": "JASON SMITH FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lloyd Smucker",
+                "member_id": "S001199",
+                "amount": 2500.0,
+                "date": "2024-07-31",
+                "recipient_group": "SMUCKER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gwen Moore",
+                "member_id": "M001160",
+                "amount": 1500.0,
+                "date": "2024-07-31",
+                "recipient_group": "MOORE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kevin Hern",
+                "member_id": "H001082",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "HERN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Carey",
+                "member_id": "C001126",
+                "amount": 2000.0,
+                "date": "2024-07-31",
+                "recipient_group": "CAREY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Beth Van Duyne",
+                "member_id": "V000134",
+                "amount": 1000.0,
+                "date": "2024-06-21",
+                "recipient_group": "BETH VAN DUYNE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Thompson",
+                "member_id": "T000460",
+                "amount": 1000.0,
+                "date": "2024-06-14",
+                "recipient_group": "MIKE THOMPSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brendan F. Boyle",
+                "member_id": "B001296",
+                "amount": 1000.0,
+                "date": "2024-05-31",
+                "recipient_group": "CITIZENS FOR BOYLE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Steven Horsford",
+                "member_id": "H001066",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "NEVADANS FOR STEVEN HORSFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John B. Larson",
+                "member_id": "L000557",
+                "amount": 1500.0,
+                "date": "2024-05-10",
+                "recipient_group": "LARSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Randy Feenstra",
+                "member_id": "F000446",
+                "amount": 1500.0,
+                "date": "2024-05-10",
+                "recipient_group": "FEENSTRA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Terri A. Sewell",
+                "member_id": "S001185",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "TERRI SEWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Judy Chu",
+                "member_id": "C001080",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "JUDY CHU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Dwight Evans",
+                "member_id": "E000296",
+                "amount": 1000.0,
+                "date": "2024-04-19",
+                "recipient_group": "DWIGHT EVANS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Carol D. Miller",
+                "member_id": "M001205",
+                "amount": 1000.0,
+                "date": "2024-04-12",
+                "recipient_group": "CAROL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michelle Fischbach",
+                "member_id": "F000470",
+                "amount": 2000.0,
+                "date": "2024-03-29",
+                "recipient_group": "FISCHBACH FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "David Schweikert",
+                "member_id": "S001183",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "FRIENDS OF DAVID SCHWEIKERT",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard E. Neal",
+                "member_id": "N000015",
+                "amount": 2500.0,
+                "date": "2024-03-01",
+                "recipient_group": "RICHARD E. NEAL FOR CONGRESS COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Thompson",
+                "member_id": "T000460",
+                "amount": 2000.0,
+                "date": "2024-02-02",
+                "recipient_group": "MIKE THOMPSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kevin Hern",
+                "member_id": "H001082",
+                "amount": 2500.0,
+                "date": "2024-01-19",
+                "recipient_group": "HERN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Randy Feenstra",
+                "member_id": "F000446",
+                "amount": 1500.0,
+                "date": "2024-01-05",
+                "recipient_group": "FEENSTRA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Suzan K. DelBene",
+                "member_id": "D000617",
+                "amount": 2000.0,
+                "date": "2024-01-05",
+                "recipient_group": "DELBENE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Aaron Bean",
+                "member_id": "B001314",
+                "amount": 2000.0,
+                "date": "2024-01-05",
+                "recipient_group": "AARON BEAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John B. Larson",
+                "member_id": "L000557",
+                "amount": 1000.0,
+                "date": "2023-12-14",
+                "recipient_group": "LARSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Carey",
+                "member_id": "C001126",
+                "amount": 1000.0,
+                "date": "2023-12-08",
+                "recipient_group": "CAREY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Blake D. Moore",
+                "member_id": "M001213",
+                "amount": 4000.0,
+                "date": "2023-12-08",
+                "recipient_group": "BLAKE MOORE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darin LaHood",
+                "member_id": "L000585",
+                "amount": 1000.0,
+                "date": "2023-11-30",
+                "recipient_group": "LAHOOD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Steven Horsford",
+                "member_id": "H001066",
+                "amount": 2000.0,
+                "date": "2023-10-13",
+                "recipient_group": "NEVADANS FOR STEVEN HORSFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jimmy Gomez",
+                "member_id": "G000585",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "JIMMY GOMEZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darin LaHood",
+                "member_id": "L000585",
+                "amount": 1000.0,
+                "date": "2023-10-06",
+                "recipient_group": "LAHOOD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jason Smith",
+                "member_id": "S001195",
+                "amount": 5000.0,
+                "date": "2023-09-29",
+                "recipient_group": "JASON SMITH FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michelle Fischbach",
+                "member_id": "F000470",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FISCHBACH FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brian K. Fitzpatrick",
+                "member_id": "F000466",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "BRIAN FITZPATRICK FOR ALL OF US",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ron Estes",
+                "member_id": "E000298",
+                "amount": 2000.0,
+                "date": "2023-09-15",
+                "recipient_group": "RON ESTES FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Beth Van Duyne",
+                "member_id": "V000134",
+                "amount": 1000.0,
+                "date": "2023-09-01",
+                "recipient_group": "BETH VAN DUYNE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jimmy Gomez",
+                "member_id": "G000585",
+                "amount": 1000.0,
+                "date": "2023-07-28",
+                "recipient_group": "JIMMY GOMEZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jason Smith",
+                "member_id": "S001195",
+                "amount": 5000.0,
+                "date": "2023-07-28",
+                "recipient_group": "JASON SMITH FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michelle Fischbach",
+                "member_id": "F000470",
+                "amount": 2000.0,
+                "date": "2023-07-28",
+                "recipient_group": "FISCHBACH FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "David Schweikert",
+                "member_id": "S001183",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "FRIENDS OF DAVID SCHWEIKERT",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Carey",
+                "member_id": "C001126",
+                "amount": 2500.0,
+                "date": "2023-06-30",
+                "recipient_group": "CAREY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darin LaHood",
+                "member_id": "L000585",
+                "amount": 2500.0,
+                "date": "2023-06-16",
+                "recipient_group": "LAHOOD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Terri A. Sewell",
+                "member_id": "S001185",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "TERRI SEWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Nathaniel Moran",
+                "member_id": "M001224",
+                "amount": 1000.0,
+                "date": "2023-05-19",
+                "recipient_group": "NATHANIEL MORAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jimmy Panetta",
+                "member_id": "P000613",
+                "amount": 1000.0,
+                "date": "2023-03-03",
+                "recipient_group": "JIMMY PANETTA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Suzan K. DelBene",
+                "member_id": "D000617",
+                "amount": 1000.0,
+                "date": "2023-03-03",
+                "recipient_group": "DELBENE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Blake D. Moore",
+                "member_id": "M001213",
+                "amount": 1000.0,
+                "date": "2023-01-20",
+                "recipient_group": "BLAKE MOORE FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s1367": {
+        "bill": {
+            "bill_no": "1367",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Finance Committee",
+            "committee_id": "ssfi"
+        },
+        "paidMembers": [
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1500.0,
+                "date": "2024-09-26",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mark R. Warner",
+                "member_id": "W000805",
+                "amount": 2500.0,
+                "date": "2024-05-03",
+                "recipient_group": "FRIENDS OF MARK WARNER",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Crapo",
+                "member_id": "C000880",
+                "amount": 2500.0,
+                "date": "2023-11-09",
+                "recipient_group": "MIKE CRAPO FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marsha Blackburn",
+                "member_id": "B001243",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "MARSHA FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s836": {
+        "bill": {
+            "bill_no": "836",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Commerce, Science, and Transportation Committee",
+            "committee_id": "sscm"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Bernie Moreno",
+                "member_id": "M001242",
+                "amount": 4000.0,
+                "date": "2024-12-20",
+                "recipient_group": "BERNIE MORENO FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Roger F. Wicker",
+                "member_id": "W000437",
+                "amount": 3000.0,
+                "date": "2024-09-20",
+                "recipient_group": "WICKER FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tammy Baldwin",
+                "member_id": "B001230",
+                "amount": 3000.0,
+                "date": "2024-08-22",
+                "recipient_group": "TAMMY BALDWIN FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tammy Baldwin",
+                "member_id": "B001230",
+                "amount": 5000.0,
+                "date": "2024-08-22",
+                "recipient_group": "PEOPLE'S VOICE PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Tammy Baldwin",
+                "member_id": "B001230",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "TAMMY BALDWIN FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tammy Baldwin",
+                "member_id": "B001230",
+                "amount": 1000.0,
+                "date": "2024-05-03",
+                "recipient_group": "TAMMY BALDWIN FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jacky Rosen",
+                "member_id": "R000608",
+                "amount": 5000.0,
+                "date": "2024-05-03",
+                "recipient_group": "ROSEN FOR NEVADA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jacky Rosen",
+                "member_id": "R000608",
+                "amount": 3000.0,
+                "date": "2024-05-03",
+                "recipient_group": "ROSEN FOR NEVADA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 3500.0,
+                "date": "2024-03-29",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John R. Curtis",
+                "member_id": "C001114",
+                "amount": 5000.0,
+                "date": "2023-11-09",
+                "recipient_group": "CURTIS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John R. Curtis",
+                "member_id": "C001114",
+                "amount": 2500.0,
+                "date": "2023-11-09",
+                "recipient_group": "CURTIS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 500.0,
+                "date": "2023-10-23",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 2000.0,
+                "date": "2023-10-23",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marsha Blackburn",
+                "member_id": "B001243",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "MARSHA FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Roger F. Wicker",
+                "member_id": "W000437",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "WICKER FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lisa Blunt Rochester",
+                "member_id": "B001303",
+                "amount": 3000.0,
+                "date": "2023-06-09",
+                "recipient_group": "LISA BLUNT ROCHESTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Dan Sullivan",
+                "member_id": "S001198",
+                "amount": 1000.0,
+                "date": "2023-06-09",
+                "recipient_group": "ALASKANS FOR DAN SULLIVAN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gary C. Peters",
+                "member_id": "P000595",
+                "amount": 1000.0,
+                "date": "2023-05-26",
+                "recipient_group": "PETERS FOR MICHIGAN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Roger F. Wicker",
+                "member_id": "W000437",
+                "amount": 1000.0,
+                "date": "2023-04-28",
+                "recipient_group": "WICKER FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John R. Curtis",
+                "member_id": "C001114",
+                "amount": 2500.0,
+                "date": "2023-03-17",
+                "recipient_group": "CURTIS FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s737": {
+        "bill": {
+            "bill_no": "737",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Finance Committee",
+            "committee_id": "ssfi"
+        },
+        "paidMembers": [
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1500.0,
+                "date": "2024-09-26",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mark R. Warner",
+                "member_id": "W000805",
+                "amount": 2500.0,
+                "date": "2024-05-03",
+                "recipient_group": "FRIENDS OF MARK WARNER",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Crapo",
+                "member_id": "C000880",
+                "amount": 2500.0,
+                "date": "2023-11-09",
+                "recipient_group": "MIKE CRAPO FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marsha Blackburn",
+                "member_id": "B001243",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "MARSHA FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s278": {
+        "bill": {
+            "bill_no": "278",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Homeland Security and Governmental Affairs Committee",
+            "committee_id": "ssga"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Bernie Moreno",
+                "member_id": "M001242",
+                "amount": 4000.0,
+                "date": "2024-12-20",
+                "recipient_group": "BERNIE MORENO FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1500.0,
+                "date": "2024-09-26",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gary C. Peters",
+                "member_id": "P000595",
+                "amount": 1000.0,
+                "date": "2023-05-26",
+                "recipient_group": "PETERS FOR MICHIGAN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ruben Gallego",
+                "member_id": "G000574",
+                "amount": 2000.0,
+                "date": "2023-01-20",
+                "recipient_group": "GALLEGO FOR ARIZONA",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s28": {
+        "bill": {
+            "bill_no": "28",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Finance Committee",
+            "committee_id": "ssfi"
+        },
+        "paidMembers": [
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1500.0,
+                "date": "2024-09-26",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mark R. Warner",
+                "member_id": "W000805",
+                "amount": 2500.0,
+                "date": "2024-05-03",
+                "recipient_group": "FRIENDS OF MARK WARNER",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Crapo",
+                "member_id": "C000880",
+                "amount": 2500.0,
+                "date": "2023-11-09",
+                "recipient_group": "MIKE CRAPO FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marsha Blackburn",
+                "member_id": "B001243",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "MARSHA FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr859": {
+        "bill": {
+            "bill_no": "859",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Armed Services Committee",
+            "committee_id": "hsas"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Adam Smith",
+                "member_id": "S000510",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "ADAM SMITH FOR CONGRESS COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Carlos A. Gimenez",
+                "member_id": "G000593",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "CARLOS GIMENEZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Nancy Mace",
+                "member_id": "M000194",
+                "amount": 1000.0,
+                "date": "2024-06-07",
+                "recipient_group": "NANCY MACE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Salud O. Carbajal",
+                "member_id": "C001112",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "SALUD CARBAJAL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jennifer A. Kiggans",
+                "member_id": "K000399",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "KIGGANS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Don Bacon",
+                "member_id": "B001298",
+                "amount": 1500.0,
+                "date": "2024-03-20",
+                "recipient_group": "DON BACON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Chrissy Houlahan",
+                "member_id": "H001085",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "CHRISSY HOULAHAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Elise M. Stefanik",
+                "member_id": "S001196",
+                "amount": 2500.0,
+                "date": "2024-03-08",
+                "recipient_group": "ELISE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jennifer A. Kiggans",
+                "member_id": "K000399",
+                "amount": 1000.0,
+                "date": "2024-01-26",
+                "recipient_group": "KIGGANS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Seth Moulton",
+                "member_id": "M001196",
+                "amount": 1000.0,
+                "date": "2024-01-05",
+                "recipient_group": "MOULTON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Trent Kelly",
+                "member_id": "K000388",
+                "amount": 1000.0,
+                "date": "2024-01-05",
+                "recipient_group": "KELLY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Chrissy Houlahan",
+                "member_id": "H001085",
+                "amount": 1000.0,
+                "date": "2023-12-14",
+                "recipient_group": "CHRISSY HOULAHAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Rogers",
+                "member_id": "R000575",
+                "amount": 5000.0,
+                "date": "2023-12-14",
+                "recipient_group": "AMERICAN SECURITY PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Don Bacon",
+                "member_id": "B001298",
+                "amount": 1500.0,
+                "date": "2023-11-09",
+                "recipient_group": "DON BACON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Courtney",
+                "member_id": "C001069",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "COURTNEY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Nancy Mace",
+                "member_id": "M000194",
+                "amount": 2500.0,
+                "date": "2023-09-29",
+                "recipient_group": "NANCY MACE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Donald Norcross",
+                "member_id": "N000188",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "DONALD NORCROSS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brad Finstad",
+                "member_id": "F000475",
+                "amount": 1000.0,
+                "date": "2023-07-28",
+                "recipient_group": "FINSTAD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Rogers",
+                "member_id": "R000575",
+                "amount": 5000.0,
+                "date": "2023-06-30",
+                "recipient_group": "MIKE ROGERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael R. Turner",
+                "member_id": "T000463",
+                "amount": 2500.0,
+                "date": "2023-06-30",
+                "recipient_group": "CITIZENS FOR TURNER",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Adam Smith",
+                "member_id": "S000510",
+                "amount": 1000.0,
+                "date": "2023-05-19",
+                "recipient_group": "ADAM SMITH FOR CONGRESS COMMITTEE",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s438": {
+        "bill": {
+            "bill_no": "438",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Energy and Natural Resources Committee",
+            "committee_id": "sseg"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 2500.0,
+                "date": "2024-12-06",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "John Barrasso",
+                "member_id": "B001261",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "FRIENDS OF JOHN BARRASSO",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Angus S. King, Jr.",
+                "member_id": "K000383",
+                "amount": 5000.0,
+                "date": "2024-08-22",
+                "recipient_group": "MAKE IT WORK PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Angus S. King, Jr.",
+                "member_id": "K000383",
+                "amount": 5000.0,
+                "date": "2024-08-22",
+                "recipient_group": "ANGUS KING FOR US SENATE CAMPAIGN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Angus S. King, Jr.",
+                "member_id": "K000383",
+                "amount": 2500.0,
+                "date": "2024-05-03",
+                "recipient_group": "ANGUS KING FOR US SENATE CAMPAIGN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 1500.0,
+                "date": "2023-12-18",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 1000.0,
+                "date": "2023-09-08",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 1500.0,
+                "date": "2023-07-14",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Martin Heinrich",
+                "member_id": "H001046",
+                "amount": 5000.0,
+                "date": "2023-04-14",
+                "recipient_group": "MARTIN HEINRICH FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Martin Heinrich",
+                "member_id": "H001046",
+                "amount": 1000.0,
+                "date": "2023-04-14",
+                "recipient_group": "MARTIN HEINRICH FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ruben Gallego",
+                "member_id": "G000574",
+                "amount": 2000.0,
+                "date": "2023-01-20",
+                "recipient_group": "GALLEGO FOR ARIZONA",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr1000": {
+        "bill": {
+            "bill_no": "1000",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Committee on House Administration",
+            "committee_id": "hsha"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Norma J. Torres",
+                "member_id": "T000474",
+                "amount": 1000.0,
+                "date": "2024-09-13",
+                "recipient_group": "NORMA TORRES FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Carey",
+                "member_id": "C001126",
+                "amount": 2000.0,
+                "date": "2024-07-31",
+                "recipient_group": "CAREY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Stephanie I. Bice",
+                "member_id": "B000740",
+                "amount": 2000.0,
+                "date": "2024-07-31",
+                "recipient_group": "BICE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Norma J. Torres",
+                "member_id": "T000474",
+                "amount": 1000.0,
+                "date": "2024-06-14",
+                "recipient_group": "NORMA TORRES FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Terri A. Sewell",
+                "member_id": "S001185",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "TERRI SEWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bryan Steil",
+                "member_id": "S001213",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "STEIL FOR WISCONSIN, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Stephanie I. Bice",
+                "member_id": "B000740",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "BICE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Carey",
+                "member_id": "C001126",
+                "amount": 1000.0,
+                "date": "2023-12-08",
+                "recipient_group": "CAREY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bryan Steil",
+                "member_id": "S001213",
+                "amount": 1000.0,
+                "date": "2023-11-09",
+                "recipient_group": "STEIL FOR WISCONSIN, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Carey",
+                "member_id": "C001126",
+                "amount": 2500.0,
+                "date": "2023-06-30",
+                "recipient_group": "CAREY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Terri A. Sewell",
+                "member_id": "S001185",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "TERRI SEWELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Laurel M. Lee",
+                "member_id": "L000597",
+                "amount": 1000.0,
+                "date": "2023-05-19",
+                "recipient_group": "LAUREL LEE FOR CONGRESS, INC.",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr872": {
+        "bill": {
+            "bill_no": "872",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Natural Resources Committee",
+            "committee_id": "hsii"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Mike Kennedy",
+                "member_id": "K000403",
+                "amount": 2000.0,
+                "date": "2024-10-30",
+                "recipient_group": "MIKE KENNEDY FOR UTAH",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Luz M. Rivas",
+                "member_id": "R000620",
+                "amount": 2000.0,
+                "date": "2024-10-30",
+                "recipient_group": "LUZ RIVAS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jeff Hurd",
+                "member_id": "H001100",
+                "amount": 2000.0,
+                "date": "2024-10-30",
+                "recipient_group": "JEFF HURD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Neguse",
+                "member_id": "N000191",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "JOE NEGUSE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1500.0,
+                "date": "2024-10-18",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tim Walberg",
+                "member_id": "W000798",
+                "amount": 2000.0,
+                "date": "2024-07-31",
+                "recipient_group": "WALBERG FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Harriet M. Hageman",
+                "member_id": "H001096",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "HAGEMAN FOR WYOMING",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Julia Brownley",
+                "member_id": "B001285",
+                "amount": 1000.0,
+                "date": "2024-06-21",
+                "recipient_group": "JULIA BROWNLEY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Neguse",
+                "member_id": "N000191",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "JOE NEGUSE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jennifer A. Kiggans",
+                "member_id": "K000399",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "KIGGANS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Daniel Webster",
+                "member_id": "W000806",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "DANIEL WEBSTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Ezell",
+                "member_id": "E000235",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "COMMITTEE TO ELECT MIKE EZELL",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jared Huffman",
+                "member_id": "H001068",
+                "amount": 1000.0,
+                "date": "2024-03-08",
+                "recipient_group": "HUFFMAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jennifer A. Kiggans",
+                "member_id": "K000399",
+                "amount": 1000.0,
+                "date": "2024-01-26",
+                "recipient_group": "KIGGANS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Harriet M. Hageman",
+                "member_id": "H001096",
+                "amount": 1000.0,
+                "date": "2024-01-05",
+                "recipient_group": "HAGEMAN FOR WYOMING",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bruce Westerman",
+                "member_id": "W000821",
+                "amount": 1000.0,
+                "date": "2023-11-09",
+                "recipient_group": "WESTERMAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Susie Lee",
+                "member_id": "L000590",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "SUSIE LEE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darren Soto",
+                "member_id": "S001200",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "DARREN SOTO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Cliff Bentz",
+                "member_id": "B000668",
+                "amount": 2000.0,
+                "date": "2023-09-01",
+                "recipient_group": "CLIFF BENTZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Pete Stauber",
+                "member_id": "S001212",
+                "amount": 2000.0,
+                "date": "2023-07-28",
+                "recipient_group": "PETE STAUBER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Cliff Bentz",
+                "member_id": "B000668",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "CLIFF BENTZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joe Neguse",
+                "member_id": "N000191",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "JOE NEGUSE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Susie Lee",
+                "member_id": "L000590",
+                "amount": 1000.0,
+                "date": "2023-03-31",
+                "recipient_group": "SUSIE LEE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1000.0,
+                "date": "2023-03-31",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bruce Westerman",
+                "member_id": "W000821",
+                "amount": 1000.0,
+                "date": "2023-03-03",
+                "recipient_group": "WESTERMAN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darren Soto",
+                "member_id": "S001200",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "DARREN SOTO FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s1073": {
+        "bill": {
+            "bill_no": "1073",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Judiciary Committee",
+            "committee_id": "ssju"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 2500.0,
+                "date": "2024-12-06",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Katie Boyd Britt",
+                "member_id": "B001319",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "ALABAMA FIRST PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 1500.0,
+                "date": "2023-12-18",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Katie Boyd Britt",
+                "member_id": "B001319",
+                "amount": 2000.0,
+                "date": "2023-10-23",
+                "recipient_group": "ALABAMA FIRST PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 1000.0,
+                "date": "2023-09-08",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Marsha Blackburn",
+                "member_id": "B001243",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "MARSHA FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Lee",
+                "member_id": "L000577",
+                "amount": 1500.0,
+                "date": "2023-07-14",
+                "recipient_group": "LEAD ENCOURAGE ELECT PAC",
+                "type": "PAC/Leadership"
+            }
+        ]
+    },
+    "s1106": {
+        "bill": {
+            "bill_no": "1106",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Homeland Security and Governmental Affairs Committee",
+            "committee_id": "ssga"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Bernie Moreno",
+                "member_id": "M001242",
+                "amount": 4000.0,
+                "date": "2024-12-20",
+                "recipient_group": "BERNIE MORENO FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1500.0,
+                "date": "2024-09-26",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "James Lankford",
+                "member_id": "L000575",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "FAMILIES FOR JAMES LANKFORD",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gary C. Peters",
+                "member_id": "P000595",
+                "amount": 1000.0,
+                "date": "2023-05-26",
+                "recipient_group": "PETERS FOR MICHIGAN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ruben Gallego",
+                "member_id": "G000574",
+                "amount": 2000.0,
+                "date": "2023-01-20",
+                "recipient_group": "GALLEGO FOR ARIZONA",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr2321": {
+        "bill": {
+            "bill_no": "2321",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Foreign Affairs Committee",
+            "committee_id": "hsfa"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Sarah McBride",
+                "member_id": "M001238",
+                "amount": 2000.0,
+                "date": "2024-10-30",
+                "recipient_group": "MCBRIDE FOR DELAWARE INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ami Bera",
+                "member_id": "B001287",
+                "amount": 1000.0,
+                "date": "2024-10-30",
+                "recipient_group": "BERA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Madeleine Dean",
+                "member_id": "D000631",
+                "amount": 1000.0,
+                "date": "2024-09-26",
+                "recipient_group": "MAD 4 PA PAC",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gregory W. Meeks",
+                "member_id": "M001137",
+                "amount": 2000.0,
+                "date": "2024-09-26",
+                "recipient_group": "FRIENDS FOR GREGORY MEEKS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Dina Titus",
+                "member_id": "T000468",
+                "amount": 1000.0,
+                "date": "2024-09-13",
+                "recipient_group": "TITUS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Greg Stanton",
+                "member_id": "S001211",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "STANTON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jonathan L. Jackson",
+                "member_id": "J000309",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "JONATHAN JACKSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gabe Amo",
+                "member_id": "A000380",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "GABE AMO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joaquin Castro",
+                "member_id": "C001091",
+                "amount": 1000.0,
+                "date": "2024-06-28",
+                "recipient_group": "CASTRO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Greg Stanton",
+                "member_id": "S001211",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "STANTON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ami Bera",
+                "member_id": "B001287",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "BERA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Andy Barr",
+                "member_id": "B001282",
+                "amount": 1000.0,
+                "date": "2024-04-12",
+                "recipient_group": "ANDY BARR FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ryan K. Zinke",
+                "member_id": "Z000018",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "ZINKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Young Kim",
+                "member_id": "K000397",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "YOUNG KIM FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael Lawler",
+                "member_id": "L000599",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "LAWLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sydney Kamlager-Dove",
+                "member_id": "K000400",
+                "amount": 1000.0,
+                "date": "2024-01-19",
+                "recipient_group": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darrell Issa",
+                "member_id": "I000056",
+                "amount": 5000.0,
+                "date": "2023-12-14",
+                "recipient_group": "INVEST IN A STRONG AND SECURE AMERICA",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Michael T. McCaul",
+                "member_id": "M001157",
+                "amount": 5000.0,
+                "date": "2023-12-08",
+                "recipient_group": "MCCAUL FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jim Costa",
+                "member_id": "C001059",
+                "amount": 1000.0,
+                "date": "2023-11-30",
+                "recipient_group": "JIM COSTA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ted Lieu",
+                "member_id": "L000582",
+                "amount": 2500.0,
+                "date": "2023-09-29",
+                "recipient_group": "TED LIEU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael Lawler",
+                "member_id": "L000599",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "LAWLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Young Kim",
+                "member_id": "K000397",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "YOUNG KIM FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darrell Issa",
+                "member_id": "I000056",
+                "amount": 5000.0,
+                "date": "2023-06-30",
+                "recipient_group": "DARRELL ISSA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sydney Kamlager-Dove",
+                "member_id": "K000400",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ted Lieu",
+                "member_id": "L000582",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "TED LIEU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Madeleine Dean",
+                "member_id": "D000631",
+                "amount": 1000.0,
+                "date": "2023-04-28",
+                "recipient_group": "MAD 4 PA PAC",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr633": {
+        "bill": {
+            "bill_no": "633",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Energy and Commerce Committee",
+            "committee_id": "hsif"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1500.0,
+                "date": "2024-10-18",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Troy A. Carter",
+                "member_id": "C001125",
+                "amount": 1000.0,
+                "date": "2024-09-26",
+                "recipient_group": "TROY CARTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jay Obernolte",
+                "member_id": "O000019",
+                "amount": 1000.0,
+                "date": "2024-09-20",
+                "recipient_group": "JAY OBERNOLTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lizzie Fletcher",
+                "member_id": "F000468",
+                "amount": 1000.0,
+                "date": "2024-09-20",
+                "recipient_group": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 2000.0,
+                "date": "2024-09-13",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 2500.0,
+                "date": "2024-07-31",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jake Auchincloss",
+                "member_id": "A000148",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "JAKE AUCHINCLOSS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard Hudson",
+                "member_id": "H001067",
+                "amount": 5000.0,
+                "date": "2024-07-31",
+                "recipient_group": "HUDSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2024-06-28",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marc A. Veasey",
+                "member_id": "V000131",
+                "amount": 1000.0,
+                "date": "2024-06-14",
+                "recipient_group": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kathy Castor",
+                "member_id": "C001066",
+                "amount": 1000.0,
+                "date": "2024-05-31",
+                "recipient_group": "CASTOR FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Robin L. Kelly",
+                "member_id": "K000385",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "ROBIN KELLY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Robert Menendez",
+                "member_id": "M001226",
+                "amount": 1000.0,
+                "date": "2024-05-10",
+                "recipient_group": "MENENDEZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kevin Mullin",
+                "member_id": "M001225",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "KEVIN MULLIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Raul Ruiz",
+                "member_id": "R000599",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "DR. RAUL RUIZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brett Guthrie",
+                "member_id": "G000558",
+                "amount": 500.0,
+                "date": "2024-03-29",
+                "recipient_group": "GUTHRIE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brett Guthrie",
+                "member_id": "G000558",
+                "amount": 2000.0,
+                "date": "2024-03-29",
+                "recipient_group": "GUTHRIE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 2500.0,
+                "date": "2024-03-20",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mariannette Miller-Meeks",
+                "member_id": "M001215",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "MILLER-MEEKS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John James",
+                "member_id": "J000307",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "JOHN JAMES FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Paul Tonko",
+                "member_id": "T000469",
+                "amount": 1000.0,
+                "date": "2024-03-08",
+                "recipient_group": "PAUL TONKO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John Joyce",
+                "member_id": "J000302",
+                "amount": 2500.0,
+                "date": "2024-03-01",
+                "recipient_group": "DR. JOHN JOYCE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Troy A. Carter",
+                "member_id": "C001125",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "TROY CARTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lizzie Fletcher",
+                "member_id": "F000468",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marc A. Veasey",
+                "member_id": "V000131",
+                "amount": 1000.0,
+                "date": "2024-01-26",
+                "recipient_group": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jay Obernolte",
+                "member_id": "O000019",
+                "amount": 3000.0,
+                "date": "2024-01-26",
+                "recipient_group": "JAY OBERNOLTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Diana DeGette",
+                "member_id": "D000197",
+                "amount": 2500.0,
+                "date": "2024-01-05",
+                "recipient_group": "DIANA DEGETTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2023-12-14",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gary J. Palmer",
+                "member_id": "P000609",
+                "amount": 2000.0,
+                "date": "2023-12-14",
+                "recipient_group": "GARY PALMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard Hudson",
+                "member_id": "H001067",
+                "amount": 1000.0,
+                "date": "2023-12-08",
+                "recipient_group": "HUDSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brett Guthrie",
+                "member_id": "G000558",
+                "amount": 3000.0,
+                "date": "2023-12-08",
+                "recipient_group": "GUTHRIE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2023-11-30",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard Hudson",
+                "member_id": "H001067",
+                "amount": 1000.0,
+                "date": "2023-11-09",
+                "recipient_group": "HUDSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darren Soto",
+                "member_id": "S001200",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "DARREN SOTO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 1500.0,
+                "date": "2023-09-29",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lizzie Fletcher",
+                "member_id": "F000468",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Raul Ruiz",
+                "member_id": "R000599",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "DR. RAUL RUIZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Paul Tonko",
+                "member_id": "T000469",
+                "amount": 1000.0,
+                "date": "2023-09-15",
+                "recipient_group": "PAUL TONKO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Cliff Bentz",
+                "member_id": "B000668",
+                "amount": 2000.0,
+                "date": "2023-09-01",
+                "recipient_group": "CLIFF BENTZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 1000.0,
+                "date": "2023-07-28",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2023-07-21",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jay Obernolte",
+                "member_id": "O000019",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "JAY OBERNOLTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Cliff Bentz",
+                "member_id": "B000668",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "CLIFF BENTZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Troy Balderson",
+                "member_id": "B001306",
+                "amount": 5000.0,
+                "date": "2023-06-30",
+                "recipient_group": "BALDERSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "August Pfluger",
+                "member_id": "P000048",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "AUGUST PFLUGER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Paul Tonko",
+                "member_id": "T000469",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "PAUL TONKO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marc A. Veasey",
+                "member_id": "V000131",
+                "amount": 1000.0,
+                "date": "2023-06-09",
+                "recipient_group": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Robin L. Kelly",
+                "member_id": "K000385",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "ROBIN KELLY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Laurel M. Lee",
+                "member_id": "L000597",
+                "amount": 1000.0,
+                "date": "2023-05-19",
+                "recipient_group": "LAUREL LEE FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mariannette Miller-Meeks",
+                "member_id": "M001215",
+                "amount": 1000.0,
+                "date": "2023-05-12",
+                "recipient_group": "MILLER-MEEKS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Erin Houchin",
+                "member_id": "H001093",
+                "amount": 2000.0,
+                "date": "2023-04-21",
+                "recipient_group": "HOUCHIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1000.0,
+                "date": "2023-03-31",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 1000.0,
+                "date": "2023-03-17",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Diana DeGette",
+                "member_id": "D000197",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "DIANA DEGETTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darren Soto",
+                "member_id": "S001200",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "DARREN SOTO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kathy Castor",
+                "member_id": "C001066",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "CASTOR FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s146": {
+        "bill": {
+            "bill_no": "146",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Banking, Housing, and Urban Affairs Committee",
+            "committee_id": "ssbk"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Bernie Moreno",
+                "member_id": "M001242",
+                "amount": 4000.0,
+                "date": "2024-12-20",
+                "recipient_group": "BERNIE MORENO FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Angela D. Alsobrooks",
+                "member_id": "A000382",
+                "amount": 4000.0,
+                "date": "2024-12-20",
+                "recipient_group": "ALSOBROOKS FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Pete Ricketts",
+                "member_id": "R000618",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "PETE RICKETTS FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Katie Boyd Britt",
+                "member_id": "B001319",
+                "amount": 2500.0,
+                "date": "2024-09-20",
+                "recipient_group": "ALABAMA FIRST PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Pete Ricketts",
+                "member_id": "R000618",
+                "amount": 2500.0,
+                "date": "2024-09-13",
+                "recipient_group": "PETE RICKETTS FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mark R. Warner",
+                "member_id": "W000805",
+                "amount": 2500.0,
+                "date": "2024-05-03",
+                "recipient_group": "FRIENDS OF MARK WARNER",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bill Hagerty",
+                "member_id": "H000601",
+                "amount": 2500.0,
+                "date": "2023-11-17",
+                "recipient_group": "TEAM HAGERTY",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Crapo",
+                "member_id": "C000880",
+                "amount": 2500.0,
+                "date": "2023-11-09",
+                "recipient_group": "MIKE CRAPO FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Pete Ricketts",
+                "member_id": "R000618",
+                "amount": 2500.0,
+                "date": "2023-11-03",
+                "recipient_group": "PETE RICKETTS FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Katie Boyd Britt",
+                "member_id": "B001319",
+                "amount": 2000.0,
+                "date": "2023-10-23",
+                "recipient_group": "ALABAMA FIRST PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Lisa Blunt Rochester",
+                "member_id": "B001303",
+                "amount": 3000.0,
+                "date": "2023-06-09",
+                "recipient_group": "LISA BLUNT ROCHESTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ruben Gallego",
+                "member_id": "G000574",
+                "amount": 2000.0,
+                "date": "2023-01-20",
+                "recipient_group": "GALLEGO FOR ARIZONA",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr1623": {
+        "bill": {
+            "bill_no": "1623",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Energy and Commerce Committee",
+            "committee_id": "hsif"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 2500.0,
+                "date": "2024-10-30",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1500.0,
+                "date": "2024-10-18",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Troy A. Carter",
+                "member_id": "C001125",
+                "amount": 1000.0,
+                "date": "2024-09-26",
+                "recipient_group": "TROY CARTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jay Obernolte",
+                "member_id": "O000019",
+                "amount": 1000.0,
+                "date": "2024-09-20",
+                "recipient_group": "JAY OBERNOLTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lizzie Fletcher",
+                "member_id": "F000468",
+                "amount": 1000.0,
+                "date": "2024-09-20",
+                "recipient_group": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 2000.0,
+                "date": "2024-09-13",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 2500.0,
+                "date": "2024-07-31",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jake Auchincloss",
+                "member_id": "A000148",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "JAKE AUCHINCLOSS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard Hudson",
+                "member_id": "H001067",
+                "amount": 5000.0,
+                "date": "2024-07-31",
+                "recipient_group": "HUDSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2024-06-28",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marc A. Veasey",
+                "member_id": "V000131",
+                "amount": 1000.0,
+                "date": "2024-06-14",
+                "recipient_group": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kathy Castor",
+                "member_id": "C001066",
+                "amount": 1000.0,
+                "date": "2024-05-31",
+                "recipient_group": "CASTOR FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Robin L. Kelly",
+                "member_id": "K000385",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "ROBIN KELLY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Robert Menendez",
+                "member_id": "M001226",
+                "amount": 1000.0,
+                "date": "2024-05-10",
+                "recipient_group": "MENENDEZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kevin Mullin",
+                "member_id": "M001225",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "KEVIN MULLIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Raul Ruiz",
+                "member_id": "R000599",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "DR. RAUL RUIZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brett Guthrie",
+                "member_id": "G000558",
+                "amount": 500.0,
+                "date": "2024-03-29",
+                "recipient_group": "GUTHRIE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brett Guthrie",
+                "member_id": "G000558",
+                "amount": 2000.0,
+                "date": "2024-03-29",
+                "recipient_group": "GUTHRIE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 2500.0,
+                "date": "2024-03-20",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mariannette Miller-Meeks",
+                "member_id": "M001215",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "MILLER-MEEKS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John James",
+                "member_id": "J000307",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "JOHN JAMES FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Paul Tonko",
+                "member_id": "T000469",
+                "amount": 1000.0,
+                "date": "2024-03-08",
+                "recipient_group": "PAUL TONKO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "John Joyce",
+                "member_id": "J000302",
+                "amount": 2500.0,
+                "date": "2024-03-01",
+                "recipient_group": "DR. JOHN JOYCE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Troy A. Carter",
+                "member_id": "C001125",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "TROY CARTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lizzie Fletcher",
+                "member_id": "F000468",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marc A. Veasey",
+                "member_id": "V000131",
+                "amount": 1000.0,
+                "date": "2024-01-26",
+                "recipient_group": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jay Obernolte",
+                "member_id": "O000019",
+                "amount": 3000.0,
+                "date": "2024-01-26",
+                "recipient_group": "JAY OBERNOLTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Diana DeGette",
+                "member_id": "D000197",
+                "amount": 2500.0,
+                "date": "2024-01-05",
+                "recipient_group": "DIANA DEGETTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2023-12-14",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gary J. Palmer",
+                "member_id": "P000609",
+                "amount": 2000.0,
+                "date": "2023-12-14",
+                "recipient_group": "GARY PALMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard Hudson",
+                "member_id": "H001067",
+                "amount": 1000.0,
+                "date": "2023-12-08",
+                "recipient_group": "HUDSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Brett Guthrie",
+                "member_id": "G000558",
+                "amount": 3000.0,
+                "date": "2023-12-08",
+                "recipient_group": "GUTHRIE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2023-11-30",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Richard Hudson",
+                "member_id": "H001067",
+                "amount": 1000.0,
+                "date": "2023-11-09",
+                "recipient_group": "HUDSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darren Soto",
+                "member_id": "S001200",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "DARREN SOTO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 1500.0,
+                "date": "2023-09-29",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lizzie Fletcher",
+                "member_id": "F000468",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "ELIZABETH PANNILL FLETCHER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Raul Ruiz",
+                "member_id": "R000599",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "DR. RAUL RUIZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Paul Tonko",
+                "member_id": "T000469",
+                "amount": 1000.0,
+                "date": "2023-09-15",
+                "recipient_group": "PAUL TONKO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Cliff Bentz",
+                "member_id": "B000668",
+                "amount": 2000.0,
+                "date": "2023-09-01",
+                "recipient_group": "CLIFF BENTZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Yvette D. Clarke",
+                "member_id": "C001067",
+                "amount": 1000.0,
+                "date": "2023-07-28",
+                "recipient_group": "CLARKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott H. Peters",
+                "member_id": "P000608",
+                "amount": 1000.0,
+                "date": "2023-07-21",
+                "recipient_group": "SCOTT PETERS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jay Obernolte",
+                "member_id": "O000019",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "JAY OBERNOLTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Cliff Bentz",
+                "member_id": "B000668",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "CLIFF BENTZ FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Troy Balderson",
+                "member_id": "B001306",
+                "amount": 5000.0,
+                "date": "2023-06-30",
+                "recipient_group": "BALDERSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "August Pfluger",
+                "member_id": "P000048",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "AUGUST PFLUGER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Paul Tonko",
+                "member_id": "T000469",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "PAUL TONKO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Doris O. Matsui",
+                "member_id": "M001163",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "MATSUI FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Marc A. Veasey",
+                "member_id": "V000131",
+                "amount": 1000.0,
+                "date": "2023-06-09",
+                "recipient_group": "MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Robin L. Kelly",
+                "member_id": "K000385",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "ROBIN KELLY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Laurel M. Lee",
+                "member_id": "L000597",
+                "amount": 1000.0,
+                "date": "2023-05-19",
+                "recipient_group": "LAUREL LEE FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mariannette Miller-Meeks",
+                "member_id": "M001215",
+                "amount": 1000.0,
+                "date": "2023-05-12",
+                "recipient_group": "MILLER-MEEKS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Erin Houchin",
+                "member_id": "H001093",
+                "amount": 2000.0,
+                "date": "2023-04-21",
+                "recipient_group": "HOUCHIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Debbie Dingell",
+                "member_id": "D000624",
+                "amount": 1000.0,
+                "date": "2023-03-31",
+                "recipient_group": "DEBBIE DINGELL FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank Pallone, Jr.",
+                "member_id": "P000034",
+                "amount": 1000.0,
+                "date": "2023-03-17",
+                "recipient_group": "PALLONE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Diana DeGette",
+                "member_id": "D000197",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "DIANA DEGETTE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darren Soto",
+                "member_id": "S001200",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "DARREN SOTO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Kathy Castor",
+                "member_id": "C001066",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "CASTOR FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "s456": {
+        "bill": {
+            "bill_no": "456",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Armed Services Committee",
+            "committee_id": "ssas"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Roger F. Wicker",
+                "member_id": "W000437",
+                "amount": 3000.0,
+                "date": "2024-09-20",
+                "recipient_group": "WICKER FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Markwayne Mullin",
+                "member_id": "M001190",
+                "amount": 3500.0,
+                "date": "2024-09-20",
+                "recipient_group": "BOOTS POLITICAL ACTION COMMITTEE",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Angus S. King, Jr.",
+                "member_id": "K000383",
+                "amount": 5000.0,
+                "date": "2024-08-22",
+                "recipient_group": "MAKE IT WORK PAC",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Tim Kaine",
+                "member_id": "K000384",
+                "amount": 4000.0,
+                "date": "2024-08-22",
+                "recipient_group": "KAINE FOR VIRIGNIA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Angus S. King, Jr.",
+                "member_id": "K000383",
+                "amount": 5000.0,
+                "date": "2024-08-22",
+                "recipient_group": "ANGUS KING FOR US SENATE CAMPAIGN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jacky Rosen",
+                "member_id": "R000608",
+                "amount": 5000.0,
+                "date": "2024-05-03",
+                "recipient_group": "ROSEN FOR NEVADA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jacky Rosen",
+                "member_id": "R000608",
+                "amount": 3000.0,
+                "date": "2024-05-03",
+                "recipient_group": "ROSEN FOR NEVADA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tim Kaine",
+                "member_id": "K000384",
+                "amount": 1000.0,
+                "date": "2024-05-03",
+                "recipient_group": "KAINE FOR VIRIGNIA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tim Kaine",
+                "member_id": "K000384",
+                "amount": 1500.0,
+                "date": "2024-05-03",
+                "recipient_group": "KAINE FOR VIRIGNIA",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Angus S. King, Jr.",
+                "member_id": "K000383",
+                "amount": 2500.0,
+                "date": "2024-05-03",
+                "recipient_group": "ANGUS KING FOR US SENATE CAMPAIGN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Markwayne Mullin",
+                "member_id": "M001190",
+                "amount": 1500.0,
+                "date": "2024-04-12",
+                "recipient_group": "BOOTS POLITICAL ACTION COMMITTEE",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 3500.0,
+                "date": "2024-03-29",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 500.0,
+                "date": "2023-10-23",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 2000.0,
+                "date": "2023-10-23",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Deb Fischer",
+                "member_id": "F000463",
+                "amount": 1500.0,
+                "date": "2023-07-21",
+                "recipient_group": "DEB FISCHER FOR US SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Roger F. Wicker",
+                "member_id": "W000437",
+                "amount": 1000.0,
+                "date": "2023-07-14",
+                "recipient_group": "WICKER FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Dan Sullivan",
+                "member_id": "S001198",
+                "amount": 1000.0,
+                "date": "2023-06-09",
+                "recipient_group": "ALASKANS FOR DAN SULLIVAN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gary C. Peters",
+                "member_id": "P000595",
+                "amount": 1000.0,
+                "date": "2023-05-26",
+                "recipient_group": "PETERS FOR MICHIGAN",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Roger F. Wicker",
+                "member_id": "W000437",
+                "amount": 1000.0,
+                "date": "2023-04-28",
+                "recipient_group": "WICKER FOR SENATE",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tim Kaine",
+                "member_id": "K000384",
+                "amount": 1000.0,
+                "date": "2023-03-03",
+                "recipient_group": "KAINE FOR VIRIGNIA",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr1077": {
+        "bill": {
+            "bill_no": "1077",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Financial Services Committee",
+            "committee_id": "hsba"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Sam T. Liccardo",
+                "member_id": "L000607",
+                "amount": 2000.0,
+                "date": "2024-12-20",
+                "recipient_group": "LICCARDO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Nikema Williams",
+                "member_id": "W000788",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "NIKEMA FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Emanuel Cleaver",
+                "member_id": "C001061",
+                "amount": 1000.0,
+                "date": "2024-10-18",
+                "recipient_group": "CLEAVER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Josh Gottheimer",
+                "member_id": "G000583",
+                "amount": 1500.0,
+                "date": "2024-09-26",
+                "recipient_group": "JOSH GOTTHEIMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gregory W. Meeks",
+                "member_id": "M001137",
+                "amount": 2000.0,
+                "date": "2024-09-26",
+                "recipient_group": "FRIENDS FOR GREGORY MEEKS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Lisa C. McClain",
+                "member_id": "M001136",
+                "amount": 2000.0,
+                "date": "2024-07-31",
+                "recipient_group": "LISA MCCLAIN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ritchie Torres",
+                "member_id": "T000486",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "TORRES FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joyce Beatty",
+                "member_id": "B001281",
+                "amount": 2000.0,
+                "date": "2024-05-17",
+                "recipient_group": "BEATTY FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tom Emmer",
+                "member_id": "E000294",
+                "amount": 2500.0,
+                "date": "2024-04-12",
+                "recipient_group": "EMMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Andy Barr",
+                "member_id": "B001282",
+                "amount": 1000.0,
+                "date": "2024-04-12",
+                "recipient_group": "ANDY BARR FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Young Kim",
+                "member_id": "K000397",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "YOUNG KIM FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bryan Steil",
+                "member_id": "S001213",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "STEIL FOR WISCONSIN, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Frank D. Lucas",
+                "member_id": "L000491",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "LUCAS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael Lawler",
+                "member_id": "L000599",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "LAWLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sean Casten",
+                "member_id": "C001117",
+                "amount": 1000.0,
+                "date": "2024-02-16",
+                "recipient_group": "CASTEN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Emanuel Cleaver",
+                "member_id": "C001061",
+                "amount": 1000.0,
+                "date": "2024-02-02",
+                "recipient_group": "CLEAVER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bill Foster",
+                "member_id": "F000454",
+                "amount": 1000.0,
+                "date": "2024-01-05",
+                "recipient_group": "BILL FOSTER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Daniel Meuser",
+                "member_id": "M001204",
+                "amount": 3000.0,
+                "date": "2023-12-08",
+                "recipient_group": "MEUSER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tom Emmer",
+                "member_id": "E000294",
+                "amount": 2500.0,
+                "date": "2023-11-30",
+                "recipient_group": "EMMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tom Emmer",
+                "member_id": "E000294",
+                "amount": 2500.0,
+                "date": "2023-11-30",
+                "recipient_group": "EMMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ritchie Torres",
+                "member_id": "T000486",
+                "amount": 1000.0,
+                "date": "2023-11-17",
+                "recipient_group": "TORRES FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Bryan Steil",
+                "member_id": "S001213",
+                "amount": 1000.0,
+                "date": "2023-11-09",
+                "recipient_group": "STEIL FOR WISCONSIN, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sylvia R. Garcia",
+                "member_id": "G000587",
+                "amount": 1000.0,
+                "date": "2023-10-13",
+                "recipient_group": "SYLVIA GARCIA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Scott Fitzgerald",
+                "member_id": "F000471",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "SCOTT FITZGERALD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Nikema Williams",
+                "member_id": "W000788",
+                "amount": 1000.0,
+                "date": "2023-09-29",
+                "recipient_group": "NIKEMA FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael Lawler",
+                "member_id": "L000599",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "LAWLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Byron Donalds",
+                "member_id": "D000032",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "BYRON DONALDS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sylvia R. Garcia",
+                "member_id": "G000587",
+                "amount": 1000.0,
+                "date": "2023-09-15",
+                "recipient_group": "SYLVIA GARCIA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Maxine Waters",
+                "member_id": "W000187",
+                "amount": 1000.0,
+                "date": "2023-07-28",
+                "recipient_group": "CITIZENS FOR WATERS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Andrew R. Garbarino",
+                "member_id": "G000597",
+                "amount": 2000.0,
+                "date": "2023-07-14",
+                "recipient_group": "GARBARINO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Young Kim",
+                "member_id": "K000397",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "YOUNG KIM FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Josh Gottheimer",
+                "member_id": "G000583",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "JOSH GOTTHEIMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sean Casten",
+                "member_id": "C001117",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "CASTEN FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Mike Flood",
+                "member_id": "F000474",
+                "amount": 2000.0,
+                "date": "2023-04-21",
+                "recipient_group": "MIKE FLOOD FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Josh Gottheimer",
+                "member_id": "G000583",
+                "amount": 1000.0,
+                "date": "2023-03-31",
+                "recipient_group": "JOSH GOTTHEIMER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Tom Emmer",
+                "member_id": "E000294",
+                "amount": 2500.0,
+                "date": "2023-03-03",
+                "recipient_group": "EMMER FOR CONGRESS",
+                "type": "Direct"
+            }
+        ]
+    },
+    "hr301": {
+        "bill": {
+            "bill_no": "301",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Foreign Affairs Committee",
+            "committee_id": "hsfa"
+        },
+        "paidMembers": [
+            {
+                "member_name": "Sarah McBride",
+                "member_id": "M001238",
+                "amount": 2000.0,
+                "date": "2024-10-30",
+                "recipient_group": "MCBRIDE FOR DELAWARE INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ami Bera",
+                "member_id": "B001287",
+                "amount": 1000.0,
+                "date": "2024-10-30",
+                "recipient_group": "BERA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Madeleine Dean",
+                "member_id": "D000631",
+                "amount": 1000.0,
+                "date": "2024-09-26",
+                "recipient_group": "MAD 4 PA PAC",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gregory W. Meeks",
+                "member_id": "M001137",
+                "amount": 2000.0,
+                "date": "2024-09-26",
+                "recipient_group": "FRIENDS FOR GREGORY MEEKS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Dina Titus",
+                "member_id": "T000468",
+                "amount": 1000.0,
+                "date": "2024-09-13",
+                "recipient_group": "TITUS FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Greg Stanton",
+                "member_id": "S001211",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "STANTON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jonathan L. Jackson",
+                "member_id": "J000309",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "JONATHAN JACKSON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Gabe Amo",
+                "member_id": "A000380",
+                "amount": 1000.0,
+                "date": "2024-07-31",
+                "recipient_group": "GABE AMO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Joaquin Castro",
+                "member_id": "C001091",
+                "amount": 1000.0,
+                "date": "2024-06-28",
+                "recipient_group": "CASTRO FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Greg Stanton",
+                "member_id": "S001211",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "STANTON FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ami Bera",
+                "member_id": "B001287",
+                "amount": 2000.0,
+                "date": "2024-05-03",
+                "recipient_group": "BERA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Andy Barr",
+                "member_id": "B001282",
+                "amount": 1000.0,
+                "date": "2024-04-12",
+                "recipient_group": "ANDY BARR FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ryan K. Zinke",
+                "member_id": "Z000018",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "ZINKE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Young Kim",
+                "member_id": "K000397",
+                "amount": 2000.0,
+                "date": "2024-03-20",
+                "recipient_group": "YOUNG KIM FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael Lawler",
+                "member_id": "L000599",
+                "amount": 1000.0,
+                "date": "2024-03-20",
+                "recipient_group": "LAWLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sydney Kamlager-Dove",
+                "member_id": "K000400",
+                "amount": 1000.0,
+                "date": "2024-01-19",
+                "recipient_group": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darrell Issa",
+                "member_id": "I000056",
+                "amount": 5000.0,
+                "date": "2023-12-14",
+                "recipient_group": "INVEST IN A STRONG AND SECURE AMERICA",
+                "type": "PAC/Leadership"
+            },
+            {
+                "member_name": "Michael T. McCaul",
+                "member_id": "M001157",
+                "amount": 5000.0,
+                "date": "2023-12-08",
+                "recipient_group": "MCCAUL FOR CONGRESS, INC.",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Jim Costa",
+                "member_id": "C001059",
+                "amount": 1000.0,
+                "date": "2023-11-30",
+                "recipient_group": "JIM COSTA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ted Lieu",
+                "member_id": "L000582",
+                "amount": 2500.0,
+                "date": "2023-09-29",
+                "recipient_group": "TED LIEU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Michael Lawler",
+                "member_id": "L000599",
+                "amount": 2000.0,
+                "date": "2023-09-29",
+                "recipient_group": "LAWLER FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Young Kim",
+                "member_id": "K000397",
+                "amount": 2000.0,
+                "date": "2023-06-30",
+                "recipient_group": "YOUNG KIM FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Darrell Issa",
+                "member_id": "I000056",
+                "amount": 5000.0,
+                "date": "2023-06-30",
+                "recipient_group": "DARRELL ISSA FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Sydney Kamlager-Dove",
+                "member_id": "K000400",
+                "amount": 1000.0,
+                "date": "2023-06-16",
+                "recipient_group": "SYDNEY KAMLAGER-DOVE FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Ted Lieu",
+                "member_id": "L000582",
+                "amount": 1500.0,
+                "date": "2023-05-26",
+                "recipient_group": "TED LIEU FOR CONGRESS",
+                "type": "Direct"
+            },
+            {
+                "member_name": "Madeleine Dean",
+                "member_id": "D000631",
+                "amount": 1000.0,
+                "date": "2023-04-28",
+                "recipient_group": "MAD 4 PA PAC",
+                "type": "Direct"
+            }
+        ]
+    }
+}

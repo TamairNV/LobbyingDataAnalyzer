@@ -1,0 +1,122 @@
+[
+    {
+        "bill_number": "S. 4010",
+        "bill_title": "SAT Streamlining Act",
+        "policy_area": "Science, Technology, Communications",
+        "summary": "Likely involves streamlining regulations and processes related to satellite and telecommunications infrastructure and operations.",
+        "amazon_position": "Not explicitly stated, but likely supportive",
+        "reason_for_lobbying": "Amazon's lobbying includes issues related to satellite communications and implementation of the Infrastructure Investment and Jobs Act. As a company with satellite internet projects (Project Kuiper), Amazon would benefit from streamlined regulations in this area."
+    },
+    {
+        "bill_number": "S. 3934",
+        "bill_title": "Increasing Access to Biosimilars Act of 2023",
+        "policy_area": "Health",
+        "summary": "Aims to increase access to biosimilar drugs (generic versions of biologic medications).",
+        "amazon_position": "Not explicitly stated",
+        "reason_for_lobbying": "Amazon's lobbying includes intellectual property issues and counterfeits. This health bill appears to be incorrectly linked in the data, as it doesn't directly relate to Amazon's stated lobbying issues on IP, copyright, and counterfeits. May be a data error."
+    },
+    {
+        "bill_number": "S. 866",
+        "bill_title": "American Innovation and Jobs Act",
+        "policy_area": "Taxation",
+        "summary": "Likely addresses tax credits or incentives for research and development (R&D) and innovation activities.",
+        "amazon_position": "Likely supportive",
+        "reason_for_lobbying": "Amazon lobbies on issues related to taxes and the American Innovation and Jobs Act specifically. As a technology company with significant R&D expenditures, Amazon would support tax policies that favor innovation and R&D investment."
+    },
+    {
+        "bill_number": "H.R. 2673",
+        "bill_title": "American Innovation and R&D Competitiveness Act of 2023",
+        "policy_area": "Taxation",
+        "summary": "Likely focuses on making research and development tax incentives permanent or more favorable to maintain U.S. competitiveness.",
+        "amazon_position": "Likely supportive",
+        "reason_for_lobbying": "Amazon's lobbying includes taxes and this specific bill. The company would support legislation that provides favorable tax treatment for its substantial R&D investments in cloud computing, AI, and other technologies."
+    },
+    {
+        "bill_number": "H.R. 3936",
+        "bill_title": "Tax Cuts for Working Families Act",
+        "policy_area": "Taxation",
+        "summary": "Likely provides tax relief or credits for middle-class and working families.",
+        "amazon_position": "Position unclear",
+        "reason_for_lobbying": "Amazon includes this in its tax lobbying issues. The company may be monitoring or engaging with broader tax legislation that could affect its workforce or overall economic conditions."
+    },
+    {
+        "bill_number": "H.R. 3937",
+        "bill_title": "Small Business Jobs Act",
+        "policy_area": "Taxation",
+        "summary": "Likely contains tax provisions or incentives aimed at supporting small businesses and job creation.",
+        "amazon_position": "Position unclear",
+        "reason_for_lobbying": "Amazon's lobbying includes this tax bill. As a platform for many small businesses (Amazon Marketplace), the company may have an interest in how tax policies affect its third-party sellers."
+    },
+    {
+        "bill_number": "H.R. 3938",
+        "bill_title": "Build It in America Act",
+        "policy_area": "Taxation",
+        "summary": "Likely includes tax incentives for domestic manufacturing and production.",
+        "amazon_position": "Position unclear",
+        "reason_for_lobbying": "Amazon includes this in its tax lobbying. The company may be interested in provisions that affect its logistics network, data center construction, or domestic manufacturing initiatives."
+    },
+    {
+        "bill_number": "H.R. 7024",
+        "bill_title": "Tax Relief for American Families and Workers Act of 2024",
+        "policy_area": "Taxation",
+        "summary": "Broad tax legislation likely extending various tax provisions and providing relief to individuals and businesses.",
+        "amazon_position": "Position unclear",
+        "reason_for_lobbying": "Amazon lobbies on this specific tax bill. The company would engage with comprehensive tax legislation that could affect its corporate tax liability, international operations, or business deductions."
+    },
+    {
+        "bill_number": "H.R. 895",
+        "bill_title": "Combating Organized Retail Crime Act of 2023",
+        "policy_area": "Crime and Law Enforcement",
+        "summary": "Aims to combat organized retail crime, including theft and resale of stolen goods.",
+        "amazon_position": "Likely supportive",
+        "reason_for_lobbying": "Amazon specifically mentions this bill in its lobbying on product safety related to counterfeit/stolen products. As a major online retailer, Amazon faces challenges with stolen goods being resold on its platform and would support measures to combat organized retail crime."
+    },
+    {
+        "bill_number": "S. 140",
+        "bill_title": "Combating Organized Retail Crime Act of 2023",
+        "policy_area": "Crime and Law Enforcement",
+        "summary": "Senate companion bill to H.R. 895, targeting organized retail crime networks.",
+        "amazon_position": "Likely supportive",
+        "reason_for_lobbying": "Same as H.R. 895 - Amazon has a direct business interest in reducing theft and resale of stolen goods on its marketplace platform."
+    },
+    {
+        "bill_number": "H.R. 1695",
+        "bill_title": "Strengthening Agency Management and Oversight of Software Assets Act",
+        "policy_area": "Government Operations and Politics",
+        "summary": "Likely requires federal agencies to better manage and oversee their software assets and licenses.",
+        "amazon_position": "Position unclear, but likely engaged",
+        "reason_for_lobbying": "Amazon's lobbying includes government procurement and IT modernization. As a major provider of cloud services (AWS) to the government, Amazon would be interested in legislation affecting how federal agencies purchase and manage software, potentially including cloud services."
+    },
+    {
+        "bill_number": "S. 931",
+        "bill_title": "Strengthening Agency Management and Oversight of Software Assets Act",
+        "policy_area": "Government Operations and Politics",
+        "summary": "Senate version of the software asset management legislation.",
+        "amazon_position": "Position unclear, but likely engaged",
+        "reason_for_lobbying": "Same as H.R. 1695 - affects government procurement processes that impact AWS's federal business."
+    },
+    {
+        "bill_number": "H.R. 4891",
+        "bill_title": "Multi-Cloud Innovation and Advancement Act of 2023",
+        "policy_area": "Government Operations and Politics",
+        "summary": "Likely promotes or regulates the use of multiple cloud service providers in government IT systems.",
+        "amazon_position": "Likely opposed or seeking modifications",
+        "reason_for_lobbying": "Amazon mentions this bill in its lobbying. As the dominant cloud provider (AWS), Amazon would likely oppose or seek to modify legislation that mandates multi-cloud approaches, which could reduce its market share in government contracts or increase compliance costs."
+    },
+    {
+        "bill_number": "S. 2871",
+        "bill_title": "Multi-Cloud Innovation and Advancement Act of 2023",
+        "policy_area": "Government Operations and Politics",
+        "summary": "Senate companion to the multi-cloud legislation.",
+        "amazon_position": "Likely opposed or seeking modifications",
+        "reason_for_lobbying": "Same as H.R. 4891 - threatens AWS's competitive position in government cloud contracting."
+    },
+    {
+        "bill_number": "S. 4066",
+        "bill_title": "FIT Procurement Act",
+        "policy_area": "Government Operations and Politics",
+        "summary": "Federal Improvement in Technology Procurement Act - likely reforms federal IT procurement processes.",
+        "amazon_position": "Likely supportive or seeking favorable provisions",
+        "reason_for_lobbying": "Amazon lobbies on this specific bill related to government procurement. As a major government contractor through AWS, Amazon would want to ensure procurement processes are favorable to its business model and cloud services."
+    }
+]
