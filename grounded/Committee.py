@@ -101,6 +101,9 @@ class Lobbying():
         self.company = company
         self.logourl = get_company_logo(company)
         self.PACID = find_pac_id(company)
+        if not self.PACID:
+            print(f"No PAC found for {company}")
+            return
         response = requests.get(url, params=params)
         data = response.json()
         codes = []
@@ -132,18 +135,21 @@ class Lobbying():
         }
         i = 1
         print("Getting paid members")
-        for code in self.newCodes:
-            pm = self.getPaidMembers(code)
 
+        for code in self.newCodes:
+
+            pm = self.getPaidMembers(code)
+            if pm is None:
+                continue
             self.paidMembers[code] = {
                 "bill": pm[1].getJsonItem(),
                 "paidMembers" : pm[0]
             }
-            print(f"{i}/{len(self.newCodes)}{pm}")
             time.sleep(0.2)
             i+=1
 
-        with open(f"{self.company}.json",'w') as f:
+
+        with open(f"Documents/{self.company}.json",'w') as f:
             j = json.dumps(self.paidMembers, indent=4)
             f.write(j)
     def getDonations(self):
@@ -186,7 +192,7 @@ class Lobbying():
             # Be nice to the API
             time.sleep(0.2)
 
-        print(f"\nTotal Amazon Donations found in {CYCLE}: {len(all_donations)}\n")
+        print(f"\nTotal {self.company} Donations found in {CYCLE}: {len(all_donations)}\n")
         return all_donations
 
 
@@ -284,13 +290,17 @@ def get_company_logo(company_name):
 #b = Bill("119","hr","1503")
 #c = Committee(b.id, b.chamber,"119")
 
-l = Lobbying("AMAZON LLC")
+#l = Lobbying("AMAZON LLC")
 
 
 
 
 
+TradeGroups = ['Technology Network (TechNet)']
 
+for group in TradeGroups:
+    Lobbying(group)
+    print("-----------------")
 
 
 

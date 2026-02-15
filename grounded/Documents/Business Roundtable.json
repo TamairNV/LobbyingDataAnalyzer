@@ -1,0 +1,75 @@
+{
+    "Company_Name": "Business Roundtable",
+    "PAC_no": "C00406702",
+    "LogoURL": "https://unavatar.io/businessroundtable.com",
+    "s383": {
+        "bill": {
+            "bill_no": "383",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Homeland Security and Governmental Affairs Committee",
+            "committee_id": "ssga"
+        },
+        "paidMembers": []
+    },
+    "hr574": {
+        "bill": {
+            "bill_no": "574",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Energy and Commerce Committee",
+            "committee_id": "hsif"
+        },
+        "paidMembers": []
+    },
+    "s559": {
+        "bill": {
+            "bill_no": "559",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Homeland Security and Governmental Affairs Committee",
+            "committee_id": "ssga"
+        },
+        "paidMembers": []
+    },
+    "hr591": {
+        "bill": {
+            "bill_no": "591",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Energy and Commerce Committee",
+            "committee_id": "hsif"
+        },
+        "paidMembers": []
+    },
+    "s187": {
+        "bill": {
+            "bill_no": "187",
+            "bill_type": "s",
+            "chamber": "senate",
+            "committee_name": "Finance Committee",
+            "committee_id": "ssfi"
+        },
+        "paidMembers": []
+    },
+    "hr1990": {
+        "bill": {
+            "bill_no": "1990",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Energy and Commerce Committee",
+            "committee_id": "hsif"
+        },
+        "paidMembers": []
+    },
+    "hr1549": {
+        "bill": {
+            "bill_no": "1549",
+            "bill_type": "hr",
+            "chamber": "house",
+            "committee_name": "Energy and Commerce Committee",
+            "committee_id": "hsif"
+        },
+        "paidMembers": []
+    }
+}

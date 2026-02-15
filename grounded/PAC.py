@@ -45,6 +45,8 @@ def find_pac_id(company_name):
                 return pac['committee_id']
 
     if not found_any:
+
         print("No obvious PACs found. Try a broader search term.")
+        return False
 
 
