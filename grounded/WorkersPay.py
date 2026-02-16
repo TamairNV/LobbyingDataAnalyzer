@@ -1,10 +1,11 @@
 import requests
 
 api_key = "4j9Ua9pp92G1xRlTQHnzLMFlkdjBeQvY"
-ticker = "AAPL"
+ticker = "AMZN"
 
 # 1. Pull the CEO's Pay
 exec_data = requests.get(f"https://financialmodelingprep.com/stable/governance-executive-compensation?symbol={ticker}&apikey={api_key}").json()
+
 ceoData = []
 for ex in exec_data:
     ceo = ['Chief Executive Officer','CEO']
@@ -24,6 +25,9 @@ inc_data = requests.get(f"https://financialmodelingprep.com/stable/income-statem
 
 sga_expense = inc_data[0]['sellingGeneralAndAdministrativeExpenses']
 
+url = f"https://financialmodelingprep.com/stable/profile?symbol={ticker}&apikey={api_key}"
+inc_data = requests.get(url).json()
+emp_count = int(inc_data[0]['fullTimeEmployees'])
 
 avg_worker_cost = sga_expense / emp_count
 ratio = ceo_pay / avg_worker_cost
